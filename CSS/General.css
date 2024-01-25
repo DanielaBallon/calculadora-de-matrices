@@ -1,0 +1,58 @@
+/* GENERAL.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#Over {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.texto {
+    flex-grow: 1;
+}
+
+
+.nav {
+    display: flex;
+    justify-content: space-around;
+
+
+    background-image: linear-gradient(to right, #316689, #31A2D7);
+    border: 1px solid #ddd;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+
+    background-size: cover;
+    justify-content: space-between;
+    align-items: center;
+
+
+    padding: 10px;
+}
+
+.nav a {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    color: #fff;
+    font-family: Arial, sans-serif;
+
+
+}
+
+.nav a:hover {
+    background-color: rgb(2, 22, 33);
+}

@@ -1,0 +1,7 @@
+1) generar un algoritmo que ingrese dos matrices y efectue la suma
+
+(debe validar columnas y filas)
+
+2) un algoritmo que obtenga un producto escalar por una matriz
+
+3)un algoritmo que ingrese dos matrices y calcule el producto de ellas
